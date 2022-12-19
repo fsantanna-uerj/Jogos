@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:generator>LibreOffice/7.1.7.2$Linux_X86_64 LibreOffice_project/10$Build-2</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>984</meta:editing-cycles><meta:editing-duration>P46DT19H28M8S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2022-12-12T21:23:36.917614032</dc:date><meta:document-statistic meta:object-count="175"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../reativos/usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
+ <office:meta><meta:generator>LibreOffice/7.1.7.2$Linux_X86_64 LibreOffice_project/10$Build-2</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>986</meta:editing-cycles><meta:editing-duration>P48DT15H8M26S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2022-12-14T17:03:55.665263306</dc:date><meta:document-statistic meta:object-count="175"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../reativos/usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-1337</config:config-item>
@@ -29,7 +29,7 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">12</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">9</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">false</config:config-item>
@@ -17836,16 +17836,16 @@
         <text:p>Entidades</text:p>
         <text:list>
          <text:list-item>
-          <text:p text:style-name="P37">Estados + Estado Inicial</text:p>
+          <text:p xml:id="id9" text:id="id9" text:style-name="P37">Estados + Estado Inicial</text:p>
          </text:list-item>
          <text:list-item>
-          <text:p text:style-name="P37">Eventos (Entradas)</text:p>
+          <text:p xml:id="id10" text:id="id10" text:style-name="P37">Eventos (Entradas)</text:p>
          </text:list-item>
          <text:list-item>
-          <text:p text:style-name="P37">Transições</text:p>
+          <text:p xml:id="id11" text:id="id11" text:style-name="P37">Transições</text:p>
          </text:list-item>
          <text:list-item>
-          <text:p text:style-name="P37">Efeitos (Saídas, Ações)</text:p>
+          <text:p xml:id="id12" text:id="id12" text:style-name="P37">Efeitos (Saídas, Ações)</text:p>
           <text:p/>
          </text:list-item>
         </text:list>
@@ -17854,17 +17854,17 @@
         <text:p>Representações</text:p>
         <text:list>
          <text:list-item>
-          <text:p text:style-name="P37">Grafo Direcionado (Diagrama de Estados)</text:p>
+          <text:p xml:id="id13" text:id="id13" text:style-name="P37">Grafo Direcionado (Diagrama de Estados)</text:p>
          </text:list-item>
          <text:list-item>
-          <text:p text:style-name="P37">Tabela de Transições</text:p>
+          <text:p xml:id="id14" text:id="id14" text:style-name="P37">Tabela de Transições</text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr6" draw:text-style-name="P32" xml:id="id9" draw:id="id9" draw:layer="layout" svg:width="8.968cm" svg:height="7.407cm" svg:x="17.78cm" svg:y="4.523cm">
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P32" xml:id="id15" draw:id="id15" draw:layer="layout" svg:width="8.968cm" svg:height="7.407cm" svg:x="17.78cm" svg:y="4.523cm">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAVMAAAEYCAYAAADh1BXbAAAgAElEQVR4Xu3dCbx9U/k/8NVM
        pqik0ZiUeRZKIgpJiChDhQz9ogi/qGgyK0NCMjZRKPPUYIpCZEpERZPhnyjN9fuf92Zd517n
@@ -18307,7 +18307,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr6" draw:text-style-name="P32" xml:id="id10" draw:id="id10" draw:layer="layout" svg:width="8.915cm" svg:height="5.899cm" svg:x="17.78cm" svg:y="13.255cm">
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P32" xml:id="id16" draw:id="id16" draw:layer="layout" svg:width="8.915cm" svg:height="5.899cm" svg:x="17.78cm" svg:y="13.255cm">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAVEAAADfCAYAAABPu+BeAAAgAElEQVR4Xu1dBXhUxxOf4u4S
        vBR3igQJIUCLewiuLRbcKdIiFdytCe4QJJTgAUpxCcHd3d2L9T+z+b+Xd5e73Ht37yzMfF8+
@@ -18636,14 +18636,56 @@
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id9" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id9" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id10" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id10" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id11" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id12" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id13" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id14" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id15" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id16" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -18659,7 +18701,7 @@
    </draw:page>
    <draw:page draw:name="page10" draw:style-name="dp5" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL3T19">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame draw:style-name="gr6" draw:text-style-name="P32" xml:id="id12" draw:id="id12" draw:layer="layout" svg:width="13.096cm" svg:height="5.688cm" svg:x="3.44cm" svg:y="5.435cm">
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P32" xml:id="id17" draw:id="id17" draw:layer="layout" svg:width="13.096cm" svg:height="5.688cm" svg:x="3.44cm" svg:y="5.435cm">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAe8AAADXCAYAAAAz19m5AAAABmJLR0QA/wD/AP+gvaeTAAAg
        AElEQVR4nO2dd3hTZRfAf23ZtIyCbJCNyBKQLUMUkT1kyFCWgoiK4EAFFyp84sKBgiIIiiig
@@ -18967,7 +19009,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr7" draw:text-style-name="P32" xml:id="id11" draw:id="id11" draw:layer="layout" svg:width="4cm" svg:height="6.08cm" svg:x="19.66cm" svg:y="5.335cm">
+    <draw:frame draw:style-name="gr7" draw:text-style-name="P32" draw:layer="layout" svg:width="4cm" svg:height="6.08cm" svg:x="19.66cm" svg:y="5.335cm">
      <draw:image draw:mime-type="image/jpeg">
       <office:binary-data>/9j/4AAQSkZJRgABAQEASABIAAD//gBORmlsZSBzb3VyY2U6IGh0dHA6Ly9jb21tb25zLndp
        a2ltZWRpYS5vcmcvd2lraS9GaWxlOlRvcm5pcXVldGVyZXZvbHV0aW9uLmpwZ//bAEMABgQF
@@ -19105,7 +19147,7 @@
       <text:p>Exemplo: Roleta</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr8" draw:text-style-name="P32" draw:layer="layout" svg:width="25cm" svg:height="5.24cm" svg:x="1.5cm" svg:y="13.11cm">
+    <draw:frame draw:style-name="gr8" draw:text-style-name="P32" xml:id="id18" draw:id="id18" draw:layer="layout" svg:width="25cm" svg:height="5.24cm" svg:x="1.5cm" svg:y="13.11cm">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABMUAAAEACAYAAACzs8HBAAAgAElEQVR4XuydB7jURPfGD4LS
        pChFsdFUwAICivTepEmX3nsRFEXpTXqRrtJ7k9470hEQsSuggAVRiqCIYP3mHb4s2dzsbrK7
@@ -20038,14 +20080,14 @@
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id11" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id17" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id12" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id18" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -20070,10 +20112,10 @@
      <draw:text-box>
       <text:list text:style-name="L5">
        <text:list-item>
-        <text:p xml:id="id13" text:id="id13" text:style-name="P37"><text:span text:style-name="T10"><text:s/></text:span><text:span text:style-name="T10">Construa uma Tabela de Transições para 2.1.1</text:span></text:p>
+        <text:p xml:id="id19" text:id="id19" text:style-name="P37"><text:span text:style-name="T10"><text:s/></text:span><text:span text:style-name="T10">Construa uma Tabela de Transições para 2.1.1</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p xml:id="id14" text:id="id14" text:style-name="P37"><text:span text:style-name="T10"><text:s/></text:span><text:span text:style-name="T10">Construa uma Tabela de Transições para 2.1.2</text:span></text:p>
+        <text:p xml:id="id20" text:id="id20" text:style-name="P37"><text:span text:style-name="T10"><text:s/></text:span><text:span text:style-name="T10">Construa uma Tabela de Transições para 2.1.2</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -21335,14 +21377,14 @@
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id13" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id19" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id14" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id20" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
